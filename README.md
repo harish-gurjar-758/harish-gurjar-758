@@ -16,7 +16,10 @@ I'm currently working as a freelancer
 ![](https://github-profile-trophy.vercel.app/?username=harish-gurjar-758&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=harish-gurjar-758&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harish-gurjar-758&icon=0&color=0)](https://visitcount.itsvg.in)
